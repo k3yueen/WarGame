@@ -1,5 +1,3 @@
-# Game
-It's cards. It's war. It's code. It's academic survival
 
 # To add:
 *1-10 Hearts Cards* |
