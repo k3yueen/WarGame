@@ -1,1 +1,24 @@
+package ui;
+import javax.swing.*;
+
+public class GameFrame extends JFrame {
+    private GamePanel gamePanel;
+    
+    public GameFrame(GameController controller) {
+        super("Card Game");
+        setExtendedState(JFrame.MAXIMIZED_BOTH);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        
+        add(gamePanel = new GamePanel(controller));
+        setJMenuBar(new MenuBar(controller));
+        setVisible(true);
+    }
+    
+    public GamePanel getGamePanel() { return gamePanel; }
+    public void setGamePanel(GamePanel gamePanel) { this.gamePanel = gamePanel; }
+    
+    public void printInfo() {
+        System.out.println("Game Frame Info:\nTitle: " + getTitle() + "\nSize: " + getSize());
+    }
+}
 
