@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 import java.util.Queue;
-import java.io.Serializabale;
+import java.io.Serializable;
 
 public class Player {
     private String name;
