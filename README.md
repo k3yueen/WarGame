@@ -1,6 +1,16 @@
 ## War Sports Theme Card Game
 This project is a Java based implementation of the classic card game "War", created as a university assignment. The game features a full graphical user interface (GUI) built with Java Swing.
 
+![GithubPic1](https://github.com/user-attachments/assets/3c64b3ba-4f75-4432-ab83-50a65bdb5721)
+
+![GithubPic2](https://github.com/user-attachments/assets/3e0c6034-3e52-44b4-9190-02c0fd6f5ddb)
+
+![GithubPic3](https://github.com/user-attachments/assets/4fbb709a-201f-44fc-b017-b79687c2f45e)
+
+![GithubPic4](https://github.com/user-attachments/assets/22cf5d14-dee6-4a1b-8355-5b18eeb5149e)
+
+![GithubPic5](https://github.com/user-attachments/assets/f4aee53a-9dd9-4dc4-b8af-1c1831712438)
+
 ![PPTpic6maybe](https://github.com/user-attachments/assets/e764d733-98b6-4624-8220-c2e4e76e435b)# War Card Game
 
 ![PPTpic2](https://github.com/user-attachments/assets/0048b21b-04c4-44e3-8578-e5f052e761fb)
