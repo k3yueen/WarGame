@@ -1,6 +1,6 @@
-![PPTpic6maybe](https://github.com/user-attachments/assets/e764d733-98b6-4624-8220-c2e4e76e435b)# War Card Game
-
 This project is a Java based implementation of the classic card game "War", created as a university assignment. The game features a full graphical user interface (GUI) built with Java Swing.
+
+![PPTpic6maybe](https://github.com/user-attachments/assets/e764d733-98b6-4624-8220-c2e4e76e435b)# War Card Game
 
 ![PPTpic2](https://github.com/user-attachments/assets/0048b21b-04c4-44e3-8578-e5f052e761fb)
 
