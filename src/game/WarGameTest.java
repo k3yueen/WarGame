@@ -1,4 +1,5 @@
 //Ademola Emmanuel Adegbola
+
 package game; //PACKAGE DECLARATION - tells Java where this class belongs in the project structure
 
 //CLASS DECLARATION - creates a test class to verify the War game logic works correctly
